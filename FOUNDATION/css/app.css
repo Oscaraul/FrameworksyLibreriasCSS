@@ -1,0 +1,42 @@
+div{
+  border: 1px solid black;
+  padding: 10px;
+}
+body {
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-image: url("../img/11.jpg");
+}
+
+.principal{
+  background-color: rgba(157, 241, 255, 0.4);
+  border: none;
+}
+
+.izquierda{
+  border-color: rgba(133, 193, 233, 0.8);
+  padding-top: 0px;
+}
+
+.izquierda_sub1{
+  background-color: rgba(133, 193, 233, 0.8);
+  border: none;
+}
+
+.boton_1{
+  border: none;
+}
+
+.eslogan, .logotipo, .izquierda_sub2{
+  border: none;
+}
+
+.derecha{
+  background-color: rgba(250, 219, 216, 0.7);
+  border: none;
+}
+
+.derecha_sub1{
+  border: none;
+}

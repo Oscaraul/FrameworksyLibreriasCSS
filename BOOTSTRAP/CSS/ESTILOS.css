@@ -1,0 +1,42 @@
+.navbar-inverse {
+  background-color: rgba(8, 45, 94, 0.95);
+  min-height: 10%;
+  border: none;
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.redes-sociales{
+  margin-top: 40px;
+
+}
+
+.nav-pills{
+  width: 100%;
+}
+
+.nav-link{
+  margin: 10px;
+}
+
+.contenido{
+  background-color: gray;
+  border: solid white ;
+}
+
+.Texto{
+  font-size: 10px,
+}
+
+.Icono_1{
+  height: 50px;
+  width: 50px;
+}
+
+@media (max-width: 767px) {
+  .logo-img {
+    width: 300px !important;
+  }
+}
